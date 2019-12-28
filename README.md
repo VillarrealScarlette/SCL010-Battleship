@@ -1,6 +1,8 @@
 # Washing Dogs
 
-[!washing-dogs](game/src/img/washing_dogs.jpg)
+![washing-dogs](game/src/img/washing_dogs.jpg)
+
+> Esta es la [demo](https://zotapianola.github.io/SCL010-Battleship/) de nuestro proyecto
 
 ## Preámbulo
 
@@ -14,7 +16,7 @@ El desafio de este proyecto fue iterar sobre la mecanica, del clásico juego Bat
 
 ### Cómo jugar 🎮
 
-- Ingresa al juego desde [aquí](https://zotapianola.github.io/SCL010-Battleship/)
+- Ingresa al [juego](https://zotapianola.github.io/SCL010-Battleship/)
 - Ingresa tu nombre para comenzar a jugar
 - Da click en 'Crear Partida'
 - Selecciona una pieza (perrito)
@@ -48,7 +50,7 @@ El código de invitación se encuentra dentro del mensaje de invitación y es aq
     - No entiende qué indican los símbolos cuando se selecciona una casilla
     - Preferiría que los tableros tuvieran un color distinto a blanco
 
-El video de éste test se encuentra disponible [aquí](https://drive.google.com/file/d/1Y2UNoQsTd9cFiVq5URMy0L_S6FuHjsgp/view?usp=sharing)
+> El video de éste test se encuentra disponible [aquí](https://drive.google.com/file/d/1Y2UNoQsTd9cFiVq5URMy0L_S6FuHjsgp/view?usp=sharing)
 
 -   **Nombre:**  Daniela Muñoz
 -   **Edad:**  18 años
@@ -131,17 +133,14 @@ Las herramientas utilizadas para crear este proyecto fueron
 ### Herramienta de Planificación 
 
 Fue utilizada la herramienta [Trello](https://trello.com/) para realizar la planificación del proyecto.
-```
 Para acceder al tablero de plafinicación haz click [aquí](https://trello.com/b/k7U7ELO7).
-```
+
 
 ### Herramienta de Diseño
 
 Se realizo el prototipo de alta fidelidad en [Adobe XD](https://www.adobe.com/products/xd.html)
-```
 Para acceder al prototipo haz click [aquí](https://xd.adobe.com/view/b48dfa56-9777-4e4e-5b3d-80937f8fec8d-c2bc/?fullscreen).
-```
-El wareframe o prototipo de baja fidelidad fue elaborado a mano y es el siguiente
+El wareframe o prototipo de baja fidelidad fue elaborado a mano y es el siguiente:
 
 ![wareframe-1](/game/src/img/Wareframe-1.JPG)
 ![wareframe-2](/game/src/img/Wareframe-2.JPG)
