@@ -1,6 +1,6 @@
 # Washing Dogs
 
-_Acá va un párrafo que describa lo que es el proyecto_
+[!washing-dogs](game/src/img/washing_dogs.jpg)
 
 ## Preámbulo
 
@@ -8,40 +8,47 @@ Battleship es un juego clásico, con múltiples versiones en juegos de mesa y en
 
 El juego es para dos personas. Consiste en que en un tablero cada jugador coloca un conjunto de barcos, ocultando su posición del contrincante. Luego, por turnos, van anunciando una posición del tablero y el enemigo informa si le han dado a uno de sus barcos o no. El juego termina cuando un jugador ha conseguido hundir todos los barcos del otro.
 
-## Comenzando 🚀
+## Objetivo 🎯
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+El desafio de este proyecto fue iterar sobre la mecanica, del clásico juego Battleship una versión más actualizada, con la libertad de crear una tématica distinta como también de escoger las herramientas con las cuales trabajar en su desarrollo. Dentro de esto además se consideró analizar los principales Benchmarks disponibles, con la finalidad de lograr un producto distintivo, manteniendo el flujo del juego de forma similar al _standard_.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+### Cómo jugar 🎮
 
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+- Ingresa al juego desde [aquí](https://zotapianola.github.io/SCL010-Battleship/)
+- Ingresa tu nombre para comenzar a jugar
+- Da click en 'Crear Partida'
+- Selecciona una pieza (perrito)
+- Posiciona la pieza en el tablero seleccionando una celda
+- Posiciona todas las piezas (perritos) en el tablero
+- Da click en 'Guardar Tablero' para guardar tu juego
+- Comparte por Whatsapp la invitación autogenerada para que un contrincante se una a la partida
+- Luego selecciona 'Jugar'
+- Ingresa el código que tu contricante te compartirá cuando este listo para jugar
+- Selecciona 'Cargar Oponente'
+- Visualizarás el tablero de tu oponente en la parte inferior
+- Selecciona una celda del tablero de tu oponente para dar con sus piezas (perritos)
+- Da click en 'Perrito Bañado' para visualizar la jugada de tu oponente en tu tablero
+- Continua esta dinamica hasta que uno de los jugadores anuncie todas los piezas (perritos)
+- Podrás seleccionar volver a jugar con el mismo oponente, la revencha o volver al inicio
 
 ```
-hasta finalizar
+El código de invitación se encuentra dentro del mensaje de invitación y es aquel que esta compuesto por letras y números aleatorios 
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+### Test con Usuarios 📲
 
-### Test con Usuarios
+-   **Nombre:**  Trinidad Vega
+-   **Edad:**  19 años
+-   **Ocupación:** Estudiante
+-   **Experiencia de juego:**  Novata en Battleship
+-   **Observaciones/Feedback:**
+    -  Utiliza todos los botones
+    - Preferiría que las piezas cambien de color en vez de mostrar símbolos
+    - Le gustan los tonos de colores
+    - No entiende qué indican los símbolos cuando se selecciona una casilla
+    - Preferiría que los tableros tuvieran un color distinto a blanco
+
+El video de éste test se encuentra disponible [aquí](https://drive.google.com/file/d/1Y2UNoQsTd9cFiVq5URMy0L_S6FuHjsgp/view?usp=sharing)
 
 -   **Nombre:**  Daniela Muñoz
 -   **Edad:**  18 años
@@ -72,17 +79,6 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
     - Preferiría que las piezas cambien de color en vez de mostrar símbolos
     - Le gusta el concepto sobre la adopción de perros
     - Entiende la temática del juego
-
--   **Nombre:**  Trinidad Vega
--   **Edad:**  19 años
--   **Ocupación:** Estudiante
--   **Experiencia de juego:**  Novata en Battleship
--   **Observaciones/Feedback:**
-    -  Utiliza todos los botones
-    - Preferiría que las piezas cambien de color en vez de mostrar símbolos
-    - Le gustan los tonos de colores
-    - No entiende qué indican los símbolos cuando se selecciona una casilla
-    - Preferiría que los tableros tuvieran un color distinto a blanco
 
 -   **Nombre:** Teva Cuevas
 -   **Edad:**  18 años
@@ -124,16 +120,13 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
     - No entiende a quién le corresponde el turno de jugar
     - Le gustaría que los tableros fueran de un color distinto a blanco
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 Las herramientas utilizadas para crear este proyecto fueron
 
-* [React.js](https://reactjs.org/) - El framework web usado
-* [Firebase](https://firebase.google.com/) - Base de datos
+* [React.js](https://reactjs.org/) - Framework para construir la Interfaz de Usuario
+* [Firebase](https://firebase.google.com/) - Almacenamiento de datos
+* [Material-UI](https://material-ui.com/) - Framework Design
 
 ### Herramienta de Planificación 
 
