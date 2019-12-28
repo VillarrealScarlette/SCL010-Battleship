@@ -132,13 +132,13 @@ Las herramientas utilizadas para crear este proyecto fueron
 
 ### Herramienta de Planificación 
 
-Fue utilizada la herramienta [Trello](https://trello.com/) para realizar la planificación del proyecto.
+Fue utilizada la herramienta [Trello](https://trello.com/) para realizar la planificación del proyecto. <br>
 Para acceder al tablero de plafinicación haz click [aquí](https://trello.com/b/k7U7ELO7).
 
 
 ### Herramienta de Diseño
 
-Se realizo el prototipo de alta fidelidad en [Adobe XD](https://www.adobe.com/products/xd.html)
+Se realizo el prototipo de alta fidelidad en [Adobe XD](https://www.adobe.com/products/xd.html). <br>
 Para acceder al prototipo haz click [aquí](https://xd.adobe.com/view/b48dfa56-9777-4e4e-5b3d-80937f8fec8d-c2bc/?fullscreen).
 El wareframe o prototipo de baja fidelidad fue elaborado a mano y es el siguiente:
 
